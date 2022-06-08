@@ -1,4 +1,4 @@
-# Aerospace Bobcat:
+# AstroNS
 
 The Aerospace Bobcat project has been developed by the Jacobs Engineering group and is available for individuals to be
 modified for specific scenarios. The Framework can be used to create simulators of various domains and connect them
