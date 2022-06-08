@@ -24,4 +24,4 @@ make clean
 make html
 ```
 The first line removes all documentation to make sure no errors occur when generating the HTML. the second line 
-generates teh HTML pages and add all the documentation from the python files.
+generates the HTML pages and add all the documentation from the python files.
