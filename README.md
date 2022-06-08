@@ -1,6 +1,6 @@
 # AstroNS
 
-The Aerospace Bobcat project has been developed by the Jacobs Engineering group and is available for individuals to be
+The AstroNS project has been developed by the Jacobs Engineering group and is available for individuals to be
 modified for specific scenarios. The Framework can be used to create simulators of various domains and connect them
 together. The simulators created by the framework are models of systems (actors) connected together that react to
 messages sent to each other to simulate complex processes/network flow/behaviours.
